@@ -1,0 +1,14 @@
+Öncelikle C# konusunda çok az bir temele sahiptim. Veri çekme işlemlerinde ise Python üzerinde BeautifulSoup4 üzerinde çok az bir bilgi sahibiyim.
+Sitenin analizi aşamasında bu sebeple çok takılma yaşamadım. Sitenin çok az bir kısmını incelediğim için analiz kısmında çok uzun süre kalmadım. 
+
+Kodlama aşamasında öncelikle belirli bir şablona oturttum. Çıkacak hatalar üzerine yeniledim. Bu hataları genel olarak Stackoverflow ve yapay zeka
+kullanarak halletmeye çalışırım. Örnek olarak Stale Reference Exception hatasını çokça alırdım bu sebeple platformlarda örnek entry'e bakıp ya da
+yapay zekaya sorup hatayı giderirdim. Sadece bu hatayla kalmayıp kırık link'in çıkması ya da Intercepted gibi hataların alınması üzerine 
+sürekli araştırark kodlamaya devam ederdim. Kodlarımı düzeltip denemekle birlikte uzun bir süre kodlamada geçirdim.
+
+Test aşamasında ben unittest yazmadım fakat genel olarak bu kodun hata çıkması olasılığına karşı 5-10 kez programı çalıştırıp denerdim. 
+Test kodlamadan daha uzun sürüyor sürekli olarak çalıştırılıp kontrol edildiği için.
+
+Eğer bir yüzde verecek olursam Analiz %20, Test %45, Kodlama %35 olarak söylerdim. 
+
+
